@@ -26,4 +26,3 @@ class GaussianFeatures(BaseEstimator, TransformerMixin):
 		                         self.centers_,\
                                  self.width_, axis=1)
 
-
